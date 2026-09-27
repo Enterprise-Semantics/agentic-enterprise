@@ -7,7 +7,7 @@
 
 - Name: Agentic Enterprise
 - ID: ES:CONCEPT:agentic-enterprise
-- Tranche: ES-016
+- Tranche: ES-010
 - Semantic Version: 0.1.0
 - Base Concept: ES:CONCEPT:enterprise
 - Status: Accepted
